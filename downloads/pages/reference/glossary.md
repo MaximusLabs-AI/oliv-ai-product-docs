@@ -1,7 +1,7 @@
 ---
 title: "Glossary"
 url: "/reference/glossary/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -72,3 +72,4 @@ Use the current dedicated page name for navigation and maintain a separate revie
 Source description does not establish current availability, production testing or owner approval.
 
 - WEB:/pricing: [Pricing — Role-Based Plans for Revenue Teams | Oliv AI](https://www.oliv.ai/pricing)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

@@ -1,7 +1,7 @@
 ---
 title: "Agent execution and coordination"
 url: "/platform/agent-harness/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -51,3 +51,4 @@ Source description does not establish current availability, production testing o
 
 - WEB:/agents/olivia: [Olivia – Chief of AI Staff for GTM Teams | Oliv AI](https://oliv.ai/agents/olivia)
 - WEB:/agents/oliver: [Oliver – Revenue Process Agent | Oliv AI](https://oliv.ai/agents/oliver)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

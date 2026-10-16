@@ -1,7 +1,7 @@
 ---
 title: "Knowledge and data access"
 url: "/agents/configuration/knowledge/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -54,4 +54,4 @@ Do not claim organization-wide knowledge isolation, automatic deletion from ever
 
 Source description does not establish current availability, production testing or owner approval.
 
-
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

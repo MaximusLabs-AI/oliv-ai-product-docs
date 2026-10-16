@@ -1,7 +1,7 @@
 ---
 title: "Meeting Assistant agent"
 url: "/agents/meeting-assistant/"
-version: "1.0"
+version: "1.1-expanded"
 status: documented
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -131,9 +131,33 @@ Preparation for an active opportunity is different from prospecting a new accoun
 - [meeting recording](../workflows/meeting-recording.md)
 - [researcher](researcher.md)
 
+<a id="operational-guides"></a>
+## Detailed operational guides
+
+
+
+- [Review an existing-deal meeting brief](meeting-assistant/preparation.md)
+- [Review post-meeting follow-through](meeting-assistant/follow-through.md)
+- [Verify ongoing deal-context updates](meeting-assistant/deal-context.md)
+- [Set up Meeting Assistant](meeting-assistant/setup.md)
+
+<a id="source-boundary"></a>
+## Availability and validation
+
+These guides explain the supplied agent reference in operational terms. They do not establish that every described control is shipped or included in every plan. Open questions remain visible in each task.
+
+<a id="explore"></a>
+## Explore
+
+- [Review an existing-deal meeting brief](meeting-assistant/preparation.md)
+- [Review post-meeting follow-through](meeting-assistant/follow-through.md)
+- [Verify ongoing deal-context updates](meeting-assistant/deal-context.md)
+- [Set up Meeting Assistant](meeting-assistant/setup.md)
+
 <a id="sources"></a>
 ## Sources and review status
 
 Source description does not establish current availability, production testing or owner approval.
 
 - WEB:/agents/meeting-assistant: [Meeting Assistant – AI Briefs &amp; Follow-ups | Oliv AI](https://oliv.ai/agents/meeting-assistant)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

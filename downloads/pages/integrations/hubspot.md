@@ -1,7 +1,7 @@
 ---
 title: "HubSpot integration"
 url: "/integrations/hubspot/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -55,6 +55,27 @@ Use a controlled source record or meeting, confirm that it arrives with the righ
 
 Record the integration version, scopes, tested objects, plan and verification date. Keep that acceptance record current when the provider changes its API or permissions.
 
+<a id="connector-contract"></a>
+## Connector contract to verify
+
+CRM context and proposed field updates. Custom field capture has a dedicated legacy Help guide.
+
+| Contract field | Required confirmation |
+| --- | --- |
+| Owner | CRM administrator |
+| Authentication | Current authorization method, granted scopes and service or user identity |
+| Data direction | Read, proposed write, executed write and unsupported operations |
+| Coverage | Exact objects, fields, meeting conditions or channels |
+| Freshness | Refresh timing, backfill and behavior after upstream changes |
+| Lifecycle | Token expiry, revocation, disconnection and retained data |
+
+<a id="explore"></a>
+## Explore
+
+- [Set up HubSpot](hubspot/setup.md)
+- [HubSpot data and permissions](hubspot/data-and-permissions.md)
+- [HubSpot sync and recovery](hubspot/recovery.md)
+
 <a id="sources"></a>
 ## Sources and review status
 
@@ -62,3 +83,4 @@ Source description does not establish current availability, production testing o
 
 - HELP:8671280: [Oliv <> HubSpot Integrations](https://help.oliv.ai/en/articles/8671280-oliv-hubspot-integrations)
 - HELP:9936748: [Step-by-Step Guide: How to capture Oliv data as fields in HubSpot by creating custom fields ?](https://help.oliv.ai/en/articles/9936748-step-by-step-guide-how-to-capture-oliv-data-as-fields-in-hubspot-by-creating-custom-fields)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

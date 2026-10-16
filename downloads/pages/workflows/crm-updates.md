@@ -1,7 +1,7 @@
 ---
 title: "Review and apply CRM updates"
 url: "/workflows/crm-updates/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -75,3 +75,4 @@ Source description does not establish current availability, production testing o
 
 - HELP:9936748: [Step-by-Step Guide: How to capture Oliv data as fields in HubSpot by creating custom fields ?](https://help.oliv.ai/en/articles/9936748-step-by-step-guide-how-to-capture-oliv-data-as-fields-in-hubspot-by-creating-custom-fields)
 - HELP:8532501: [Integrations settings for Oliv](https://help.oliv.ai/en/articles/8532501-integrations-settings-for-oliv)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

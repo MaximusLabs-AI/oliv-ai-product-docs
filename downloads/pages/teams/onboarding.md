@@ -1,7 +1,7 @@
 ---
 title: "Customer Onboarding"
 url: "/teams/onboarding/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false

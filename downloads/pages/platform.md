@@ -1,7 +1,7 @@
 ---
 title: "Platform concepts"
 url: "/platform/"
-version: "1.0"
+version: "1.1-expanded"
 status: documented
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -47,3 +47,4 @@ An activity is an input; a signal is an interpretation of that input; a process 
 Source description does not establish current availability, production testing or owner approval.
 
 - WEB:/oliv-tech: [Oliv Tech | Oliv AI](https://oliv.ai/oliv-tech)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

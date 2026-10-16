@@ -1,19 +1,11 @@
-# Oliv AI documentation — V1 review preview
+# Oliv AI expanded documentation V1
 
-[Open the live documentation](https://maximuslabs-ai.github.io/oliv-ai-product-docs/)
+Live review: https://maximuslabs-ai.github.io/oliv-ai-product-docs/
 
-92 navigable pages across agents, apps, platform, workflows, teams, integrations, administration and reference. The V1 includes 501 authored sections, topic cards, filtered search, task links, reading metadata, workflow steps and stable heading anchors.
+690 source-grounded review pages covering agents, setup, integrations, ICP, seven revenue domains, all 555 buyer criteria, all 91 AI evaluation checks and all 735 master research questions.
 
-Every HTML page includes noindex/nofollow. This is a public review preview; product claims and availability still require product-owner review. Noindex is a crawler instruction, not authentication.
+Use the evidence and claims workbench to distinguish source descriptions, partial evidence and unresolved requirements. All 555 Oliv claim decisions remain unmarked. The 49-name agent register includes catalog and historical entries; it is not a GA-agent count.
 
-The original source documents, private Drive links, 555-row evidence worksheet and original sixty-question log remain in the private authoring repository. This repository contains the static UI export only.
+All HTML pages retain noindex, nofollow. Original private documents, Drive links and raw prototype worksheets are excluded. The private authoring repository is maintained separately.
 
-## Scope
-
-This V1 groups capabilities into broad references. It is not yet an exhaustive, production-tested feature-by-feature manual. Further work includes granular task procedures, connector contracts, permissions, limits, API/MCP documentation and a verified release archive.
-
-## UI references
-
-Oliv AI Design System in Paper: Outfit typography, slate/indigo tokens, leaf cards and agent themes. Perplexity Help Center: prominent search, topic navigation, related article patterns and copy-page controls.
-
-Published for review on 16 October 2026.
+This repository contains the static review export. Historical assets are retained; they are not deleted during updates.

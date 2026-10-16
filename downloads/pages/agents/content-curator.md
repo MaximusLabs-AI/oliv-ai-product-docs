@@ -1,7 +1,7 @@
 ---
 title: "Content Curator agent"
 url: "/agents/content-curator/"
-version: "1.0"
+version: "1.1-expanded"
 status: documented
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -133,9 +133,35 @@ Content Curator is not the call recorder or a full learning-management system. I
 - [coaching](../workflows/coaching.md)
 - [access](../administration/access.md)
 
+<a id="operational-guides"></a>
+## Detailed operational guides
+
+
+
+- [Define clip-detection intents](content-curator/intents.md)
+- [Organize and review the clip library](content-curator/clip-library.md)
+- [Give relevance feedback on clips](content-curator/feedback.md)
+- [Evaluate library storage and synchronization](content-curator/storage-sync.md)
+- [Set up Content Curator](content-curator/setup.md)
+
+<a id="source-boundary"></a>
+## Availability and validation
+
+These guides explain the supplied agent reference in operational terms. They do not establish that every described control is shipped or included in every plan. Open questions remain visible in each task.
+
+<a id="explore"></a>
+## Explore
+
+- [Define clip-detection intents](content-curator/intents.md)
+- [Organize and review the clip library](content-curator/clip-library.md)
+- [Give relevance feedback on clips](content-curator/feedback.md)
+- [Evaluate library storage and synchronization](content-curator/storage-sync.md)
+- [Set up Content Curator](content-curator/setup.md)
+
 <a id="sources"></a>
 ## Sources and review status
 
 Source description does not establish current availability, production testing or owner approval.
 
 - WEB:/agents/content-curator: [Content Curator | Oliv AI](https://oliv.ai/agents/content-curator)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

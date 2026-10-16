@@ -1,7 +1,7 @@
 ---
 title: "Meeting capture and brief issues"
 url: "/troubleshooting/meetings/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -64,3 +64,4 @@ Source description does not establish current availability, production testing o
 - HELP:15136310: [Understanding Oliv’s Meeting Recording Modes](https://help.oliv.ai/en/articles/15136310-understanding-oliv-s-meeting-recording-modes)
 - HELP:9979279: [How to enable admin-level Zoom recording permissions with Oliv](https://help.oliv.ai/en/articles/9979279-how-to-enable-admin-level-zoom-recording-permissions-with-oliv)
 - HELP:10511705: [How to configure Calendly to work with Oliv](https://help.oliv.ai/en/articles/10511705-how-to-configure-calendly-to-work-with-oliv)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

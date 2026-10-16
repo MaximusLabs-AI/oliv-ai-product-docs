@@ -1,7 +1,7 @@
 ---
 title: "CRM Manager agent"
 url: "/agents/crm-manager/"
-version: "1.0"
+version: "1.1-expanded"
 status: documented
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -132,9 +132,41 @@ CRM Manager complements an existing CRM. It is not the CRM itself and should not
 - [hubspot](../integrations/hubspot.md)
 - [approvals](../administration/approvals.md)
 
+<a id="operational-guides"></a>
+## Detailed operational guides
+
+
+
+- [Choose CRM review and execution modes](crm-manager/operating-modes.md)
+- [Review account and contact changes](crm-manager/accounts-contacts.md)
+- [Review opportunity creation and tracking](crm-manager/opportunities.md)
+- [Review activity and task logging](crm-manager/activity-task-logging.md)
+- [Map standard, methodology and custom fields](crm-manager/field-mapping.md)
+- [Accept, edit or reject a proposed CRM update](crm-manager/proposed-updates.md)
+- [Plan a retrospective data-quality job](crm-manager/batch-quality.md)
+- [Set up CRM Manager](crm-manager/setup.md)
+
+<a id="source-boundary"></a>
+## Availability and validation
+
+These guides explain the supplied agent reference in operational terms. They do not establish that every described control is shipped or included in every plan. Open questions remain visible in each task.
+
+<a id="explore"></a>
+## Explore
+
+- [Choose CRM review and execution modes](crm-manager/operating-modes.md)
+- [Review account and contact changes](crm-manager/accounts-contacts.md)
+- [Review opportunity creation and tracking](crm-manager/opportunities.md)
+- [Review activity and task logging](crm-manager/activity-task-logging.md)
+- [Map standard, methodology and custom fields](crm-manager/field-mapping.md)
+- [Accept, edit or reject a proposed CRM update](crm-manager/proposed-updates.md)
+- [Plan a retrospective data-quality job](crm-manager/batch-quality.md)
+- [Set up CRM Manager](crm-manager/setup.md)
+
 <a id="sources"></a>
 ## Sources and review status
 
 Source description does not establish current availability, production testing or owner approval.
 
 - WEB:/agents/crm-manager: [CRM Manager | Oliv AI](https://oliv.ai/agents/crm-manager)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

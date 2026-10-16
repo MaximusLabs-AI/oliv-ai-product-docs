@@ -1,7 +1,7 @@
 ---
 title: "Agents"
 url: "/agents/"
-version: "1.0"
+version: "1.1-expanded"
 status: documented
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -69,6 +69,43 @@ The wider marketplace names additional agents. A name and a short description do
 - [Prospector agent](agents/prospector.md)
 - [Marketplace and agent naming](agents/marketplace.md)
 - [Agent configuration](agents/configuration.md)
+- [Pipeline Tracker agent reference](agents/pipeline-tracker.md)
+- [Retention Forecaster agent reference](agents/retention-forecaster.md)
+- [Analyst agent reference](agents/analyst.md)
+- [Deal Assist agent reference](agents/deal-assist.md)
+- [MAP Manager agent reference](agents/map-manager.md)
+- [Case Builder agent reference](agents/case-builder.md)
+- [CRM Assist agent reference](agents/crm-assist.md)
+- [Territory Planner agent reference](agents/territory-planner.md)
+- [Scenario Simulator agent reference](agents/scenario-simulator.md)
+- [Reactivator agent reference](agents/reactivator.md)
+- [Follow-up Maniac agent reference](agents/follow-up-maniac.md)
+- [Handoff Hank agent reference](agents/handoff-hank.md)
+- [Relationship Manager agent reference](agents/relationship-manager.md)
+- [Proposal Pro agent reference](agents/proposal-pro.md)
+- [Signal Scout agent reference](agents/signal-scout.md)
+- [Objection Whisperer agent reference](agents/objection-whisperer.md)
+- [Demo Wizard agent reference](agents/demo-wizard.md)
+- [Pricing Strategist agent reference](agents/pricing-strategist.md)
+- [Legal Liaison agent reference](agents/legal-liaison.md)
+- [Health Monitor agent reference](agents/health-monitor.md)
+- [QBR Builder agent reference](agents/qbr-builder.md)
+- [Compliance Sentinel agent reference](agents/compliance-sentinel.md)
+- [Cross-Sell Cat agent reference](agents/cross-sell-cat.md)
+- [Battlecard Builder agent reference](agents/battlecard-builder.md)
+- [Data Cleanser agent reference](agents/data-cleanser.md)
+- [Collateral Curator agent reference](agents/collateral-curator.md)
+- [Playbook Author agent reference](agents/playbook-author.md)
+- [Event Scanner agent reference](agents/event-scanner.md)
+- [Rapid Responder agent reference](agents/rapid-responder.md)
+- [Quick Qualifier agent reference](agents/quick-qualifier.md)
+- [Onboarding Tracker agent reference](agents/onboarding-tracker.md)
+- [Release Messenger agent reference](agents/release-messenger.md)
+- [Module Activator agent reference](agents/module-activator.md)
+- [Case Manager agent reference](agents/case-manager.md)
+- [Call Copilot agent reference](agents/call-copilot.md)
+- [Release Manager agent reference](agents/release-manager.md)
+- [Support Triage agent reference](agents/support-triage.md)
 
 <a id="sources"></a>
 ## Sources and review status

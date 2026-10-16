@@ -1,7 +1,7 @@
 ---
 title: "Integration and sync issues"
 url: "/troubleshooting/integrations/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -57,3 +57,4 @@ Source description does not establish current availability, production testing o
 
 - HELP:8532501: [Integrations settings for Oliv](https://help.oliv.ai/en/articles/8532501-integrations-settings-for-oliv)
 - HELP:8671280: [Oliv <> HubSpot Integrations](https://help.oliv.ai/en/articles/8671280-oliv-hubspot-integrations)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

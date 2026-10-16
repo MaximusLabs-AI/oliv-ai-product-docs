@@ -1,7 +1,7 @@
 ---
 title: "Oliv AI product documentation"
 url: "/"
-version: "1.0"
+version: "1.1-expanded"
 status: documented
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -14,7 +14,19 @@ product_owner_approved: false
 <a id="overview"></a>
 ## Overview
 
-Oliv brings customer activity, account context and revenue processes together so agents can help teams prospect, progress deals, serve customers and identify expansion opportunities.
+Oliv’s source-grounded V1 reference now connects agents and operational tasks with all 555 buyer criteria, 91 AI checks, seven revenue domains, ICP guidance and the complete 735-question research bank. Review evidence and unresolved claims before relying on a workflow.
+
+<a id="review-controls"></a>
+## Review what is evidenced and what needs confirmation
+
+Use the status buttons at the top to inspect the dated source assessment, then open a criterion’s detailed reference. “Source-backed” is distinct from a shipped feature or an approved public claim.
+
+The supplied buyer map has 305 Evidenced, 100 Partial, 146 Unknown, 3 historical No and 1 ambiguous By design row. All 555 owner-decision cells are unmarked.
+
+- [Evidence and claims workbench](evaluation.md)
+- [Buyer, ICP and evaluation guides](buyers.md)
+- [Seven revenue domains](domains.md)
+- [735 buyer questions](buyers/questions.md)
 
 <a id="what-oliv-does"></a>
 ## What Oliv does
@@ -51,17 +63,22 @@ Each page separates documented behavior from unresolved rules. Source publicatio
 <a id="explore"></a>
 ## Explore
 
+- [Evidence and claims workbench](evaluation.md)
 - [Getting started](getting-started.md)
-- [Platform concepts](platform.md)
+- [Buyer, ICP and evaluation guides](buyers.md)
+- [Seven revenue domains](domains.md)
 - [Agents](agents.md)
+- [Feature and capability reference](features.md)
+- [Platform concepts](platform.md)
 - [Apps](apps.md)
 - [Workflows](workflows.md)
 - [Integrations](integrations.md)
-- [Documentation by team](teams.md)
 - [Administration](administration.md)
 - [Reference](reference.md)
+- [Documentation by team](teams.md)
 - [Troubleshooting](troubleshooting.md)
 - [Announcements and release notes](announcements.md)
+- [AI discovery and documentation checks](ai-readiness.md)
 - [V1 review guide](review.md)
 
 <a id="sources"></a>

@@ -1,7 +1,7 @@
 ---
 title: "Plan your first deployment"
 url: "/getting-started/implementation/"
-version: "1.0"
+version: "1.1-expanded"
 status: documented
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -63,3 +63,4 @@ Use an agreed implementation plan with explicit milestones. This V1 does not pro
 Source description does not establish current availability, production testing or owner approval.
 
 - WEB:/agents/olivia: [Olivia – Chief of AI Staff for GTM Teams | Oliv AI](https://oliv.ai/agents/olivia)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

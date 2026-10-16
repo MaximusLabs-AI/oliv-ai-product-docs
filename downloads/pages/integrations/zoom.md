@@ -1,7 +1,7 @@
 ---
 title: "Zoom integration"
 url: "/integrations/zoom/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -54,6 +54,27 @@ These are unresolved implementation questions. The list is not a claim that all 
 Use a controlled source record or meeting, confirm that it arrives with the right owner and associations, and inspect any downstream write or notification. Repeat with a permission or validation exception and record the observed error path.
 
 Record the integration version, scopes, tested objects, plan and verification date. Keep that acceptance record current when the provider changes its API or permissions.
+
+<a id="connector-contract"></a>
+## Connector contract to verify
+
+Recording and transcript availability depend on account authorization, organizer and recording permissions.
+
+| Contract field | Required confirmation |
+| --- | --- |
+| Owner | Zoom administrator and meeting organizer |
+| Authentication | Current authorization method, granted scopes and service or user identity |
+| Data direction | Read, proposed write, executed write and unsupported operations |
+| Coverage | Exact objects, fields, meeting conditions or channels |
+| Freshness | Refresh timing, backfill and behavior after upstream changes |
+| Lifecycle | Token expiry, revocation, disconnection and retained data |
+
+<a id="explore"></a>
+## Explore
+
+- [Set up Zoom](zoom/setup.md)
+- [Zoom data and permissions](zoom/data-and-permissions.md)
+- [Zoom sync and recovery](zoom/recovery.md)
 
 <a id="sources"></a>
 ## Sources and review status

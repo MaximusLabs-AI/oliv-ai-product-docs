@@ -1,7 +1,7 @@
 ---
 title: "Olivia agent"
 url: "/agents/olivia/"
-version: "1.0"
+version: "1.1-expanded"
 status: documented
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -122,9 +122,35 @@ Olivia does not replace the organization’s accountable decision makers or inde
 - [agent harness](../platform/agent-harness.md)
 - [approvals](configuration/approvals.md)
 
+<a id="operational-guides"></a>
+## Detailed operational guides
+
+
+
+- [Review account and deal context](olivia/context.md)
+- [Request and review specialist work](olivia/delegate.md)
+- [Triage Olivia’s proactive signals](olivia/proactive-alerts.md)
+- [Verify Olivia’s alignment with Oliver](olivia/process-alignment.md)
+- [Set up Olivia](olivia/setup.md)
+
+<a id="source-boundary"></a>
+## Availability and validation
+
+These guides explain the supplied agent reference in operational terms. They do not establish that every described control is shipped or included in every plan. Open questions remain visible in each task.
+
+<a id="explore"></a>
+## Explore
+
+- [Review account and deal context](olivia/context.md)
+- [Request and review specialist work](olivia/delegate.md)
+- [Triage Olivia’s proactive signals](olivia/proactive-alerts.md)
+- [Verify Olivia’s alignment with Oliver](olivia/process-alignment.md)
+- [Set up Olivia](olivia/setup.md)
+
 <a id="sources"></a>
 ## Sources and review status
 
 Source description does not establish current availability, production testing or owner approval.
 
 - WEB:/agents/olivia: [Olivia – Chief of AI Staff for GTM Teams | Oliv AI](https://oliv.ai/agents/olivia)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

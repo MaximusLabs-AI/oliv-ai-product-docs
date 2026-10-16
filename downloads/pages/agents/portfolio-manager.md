@@ -1,7 +1,7 @@
 ---
 title: "Portfolio Manager agent"
 url: "/agents/portfolio-manager/"
-version: "1.0"
+version: "1.1-expanded"
 status: documented
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -132,9 +132,37 @@ Portfolio Manager does not replace a support ticketing system or automatically r
 - [customer success](../workflows/customer-success.md)
 - [gold digger](gold-digger.md)
 
+<a id="operational-guides"></a>
+## Detailed operational guides
+
+
+
+- [Review an account risk diagnosis](portfolio-manager/risk-diagnosis.md)
+- [Prepare a CSM portfolio 1:1](portfolio-manager/csm-one-to-one.md)
+- [Review the team portfolio recap](portfolio-manager/portfolio-recap.md)
+- [Review renewal confidence](portfolio-manager/renewal-confidence.md)
+- [Review account-level CSM coaching](portfolio-manager/csm-effectiveness.md)
+- [Set up Portfolio Manager](portfolio-manager/setup.md)
+
+<a id="source-boundary"></a>
+## Availability and validation
+
+These guides explain the supplied agent reference in operational terms. They do not establish that every described control is shipped or included in every plan. Open questions remain visible in each task.
+
+<a id="explore"></a>
+## Explore
+
+- [Review an account risk diagnosis](portfolio-manager/risk-diagnosis.md)
+- [Prepare a CSM portfolio 1:1](portfolio-manager/csm-one-to-one.md)
+- [Review the team portfolio recap](portfolio-manager/portfolio-recap.md)
+- [Review renewal confidence](portfolio-manager/renewal-confidence.md)
+- [Review account-level CSM coaching](portfolio-manager/csm-effectiveness.md)
+- [Set up Portfolio Manager](portfolio-manager/setup.md)
+
 <a id="sources"></a>
 ## Sources and review status
 
 Source description does not establish current availability, production testing or owner approval.
 
 - WEB:/agents/portfolio-manager: [Portfolio Manager | Oliv AI](https://oliv.ai/agents/portfolio-manager)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

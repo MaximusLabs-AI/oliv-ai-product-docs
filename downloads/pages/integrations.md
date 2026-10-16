@@ -1,7 +1,7 @@
 ---
 title: "Integrations"
 url: "/integrations/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -62,6 +62,30 @@ The current website’s broad integration count is not used as a connector-by-co
 - [Outlook and Microsoft 365 integration](integrations/outlook.md)
 - [Google Calendar and Gmail integration](integrations/google-calendar.md)
 - [Other integrations and channels](integrations/other-systems.md)
+- [Zoho connection review](integrations/zoho.md)
+- [Freshworks connection review](integrations/freshworks.md)
+- [Copper connection review](integrations/copper.md)
+- [Close connection review](integrations/close.md)
+- [Microsoft Dynamics connection review](integrations/microsoft-dynamics.md)
+- [Pipedrive connection review](integrations/pipedrive.md)
+- [Gong connection review](integrations/gong.md)
+- [Chorus connection review](integrations/chorus.md)
+- [Avoma connection review](integrations/avoma.md)
+- [Grain connection review](integrations/grain.md)
+- [Salesloft connection review](integrations/salesloft.md)
+- [Clari connection review](integrations/clari.md)
+- [Highspot connection review](integrations/highspot.md)
+- [Calendly connection review](integrations/calendly.md)
+- [Apollo connection review](integrations/apollo.md)
+- [Bombora connection review](integrations/bombora.md)
+- [DocuSign connection review](integrations/docusign.md)
+- [Ironclad connection review](integrations/ironclad.md)
+- [LinkedIn Sales Navigator connection review](integrations/linkedin-sales-navigator.md)
+- [Telegram connection review](integrations/telegram.md)
+- [Data warehouses connection review](integrations/data-warehouses.md)
+- [Customer success platforms connection review](integrations/customer-success-platforms.md)
+- [Dialers and telephony connection review](integrations/dialers-and-telephony.md)
+- [API and MCP connection review](integrations/api-and-mcp.md)
 
 <a id="sources"></a>
 ## Sources and review status
@@ -70,3 +94,4 @@ Source description does not establish current availability, production testing o
 
 - WEB:/integrations: [Integrations – Oliv Works With Your Tech Stack | Oliv AI](https://www.oliv.ai/integrations)
 - HELP:8532501: [Integrations settings for Oliv](https://help.oliv.ai/en/articles/8532501-integrations-settings-for-oliv)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

@@ -1,7 +1,7 @@
 ---
 title: "Signal Graph"
 url: "/platform/signal-graph/"
-version: "1.0"
+version: "1.1-expanded"
 status: documented
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -54,3 +54,4 @@ For forecast and health workflows, evaluate the signal against observed outcomes
 Source description does not establish current availability, production testing or owner approval.
 
 - WEB:/signal-graph: [Signal Graph | Oliv AI](https://oliv.ai/signal-graph)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

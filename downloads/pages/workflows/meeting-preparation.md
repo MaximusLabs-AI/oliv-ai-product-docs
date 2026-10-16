@@ -1,7 +1,7 @@
 ---
 title: "Prepare and follow up a meeting"
 url: "/workflows/meeting-preparation/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -74,3 +74,4 @@ Source description does not establish current availability, production testing o
 
 - HELP:9133182: [Messages Sent by Oliv to Slack](https://help.oliv.ai/en/articles/9133182-messages-sent-by-oliv-to-slack)
 - HELP:9334685: [A quick guide to streamline your meetings with try@oliv.ai](https://help.oliv.ai/en/articles/9334685-a-quick-guide-to-streamline-your-meetings-with-try-oliv-ai)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

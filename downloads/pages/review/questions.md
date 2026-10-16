@@ -1,7 +1,7 @@
 ---
 title: "Open questions and claim conflicts"
 url: "/review/questions/"
-version: "1.0"
+version: "1.1-expanded"
 status: editorial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -160,6 +160,13 @@ An answer saying only ‘yes’ is insufficient when the question concerns scope
 The original sixty-question extraction log is retained in the private repository. The concise publication-review queue above identifies the product facts that need confirmation.
 
 Close a question only when its specific behavior and applicable scope have been verified.
+
+<a id="owner-decisions"></a>
+## Unmarked buyer decisions
+
+Every owner decision in the supplied 555-row buyer map is blank. The expanded references do not mark “Have it, can claim,” “Have it, don’t claim,” “Being built” or “Cannot claim” on Oliv’s behalf.
+
+- [Evidence and claims workbench](../evaluation.md)
 
 <a id="sources"></a>
 ## Sources and review status

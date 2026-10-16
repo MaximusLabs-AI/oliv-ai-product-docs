@@ -1,7 +1,7 @@
 ---
 title: "Getting started"
 url: "/getting-started/"
-version: "1.0"
+version: "1.1-expanded"
 status: documented
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -45,6 +45,18 @@ Setup instructions vary by connector and organization policy. Some public setup 
 - [Run a first workflow](getting-started/first-workflow.md)
 - [Who uses Oliv](getting-started/roles.md)
 - [Startups and staged adoption](getting-started/startups.md)
+- [Assess deployment readiness](getting-started/readiness.md)
+- [Inventory revenue data](getting-started/data-inventory.md)
+- [Validate account and user identity](getting-started/identity-mapping.md)
+- [Configure methodology and stage definitions](getting-started/methodology.md)
+- [Approve an action policy](getting-started/approval-policy.md)
+- [Validate recording readiness](getting-started/recording-readiness.md)
+- [Configure notification ownership](getting-started/notifications.md)
+- [Run a pilot acceptance review](getting-started/pilot-acceptance.md)
+- [Plan reviewer training and adoption](getting-started/training-adoption.md)
+- [Expand a reviewed workflow](getting-started/rollout.md)
+- [Plan migration and historical backfill](getting-started/migration-backfill.md)
+- [Plan revocation and offboarding](getting-started/offboarding.md)
 
 <a id="sources"></a>
 ## Sources and review status
@@ -52,3 +64,4 @@ Setup instructions vary by connector and organization policy. Some public setup 
 Source description does not establish current availability, production testing or owner approval.
 
 - WEB:/pricing: [Pricing — Role-Based Plans for Revenue Teams | Oliv AI](https://www.oliv.ai/pricing)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

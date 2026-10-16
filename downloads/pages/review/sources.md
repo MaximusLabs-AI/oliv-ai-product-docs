@@ -1,7 +1,7 @@
 ---
 title: "Source register"
 url: "/review/sources/"
-version: "1.0"
+version: "1.1-expanded"
 status: editorial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -26,7 +26,7 @@ An approved legal or contractual statement is not replaced by newer marketing co
 <a id="source-register"></a>
 ## Retrieved sources
 
-This hosted register contains the 57 public product and Help Center sources. Private document identifiers, Drive links and source metadata are excluded.
+This hosted register contains public product and Help Center citations plus curated attribution to supplied research. Original source files, private identifiers and Drive links are excluded.
 
 A retrieval date records when a source was checked; it is not a product release or owner-approval date.
 
@@ -87,6 +87,10 @@ A retrieval date records when a source was checked; it is not a product release 
 - WEB:/sales-engineering: [Sales Engineering – Full Deal Context for SEs | Oliv AI](https://www.oliv.ai/sales-engineering) · Current public product page · Source update date not supplied; checked 2026-10-16
 - WEB:/signal-graph: [Signal Graph | Oliv AI](https://oliv.ai/signal-graph) · Current public product page · Source update date not supplied; checked 2026-10-16
 - WEB:/startup: [Oliv for Startups – AI-Native Revenue Platform | Oliv AI](https://www.oliv.ai/startup) · Current public product page · Source update date not supplied; checked 2026-10-16
+- REVIEW:master: Supplied Oliv AEO/GEO master — authored review basis · Client-supplied research basis · Supplied; reviewed 2026-10-16
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis · Client-supplied product descriptions · Supplied; reviewed 2026-10-16
+- REVIEW:buyer-map: Buyer evaluation baseline — 9 October 2026 · Dated assessment; not production verification · 2026-10-09
+- REVIEW:ai-audit: AI evaluation baseline — 9 October 2026 · Dated production-web audit; not remeasured · 2026-10-09
 
 <a id="source-limitations"></a>
 ## Limitations

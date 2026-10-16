@@ -1,7 +1,7 @@
 ---
 title: "Oliver agent"
 url: "/agents/oliver/"
-version: "1.0"
+version: "1.1-expanded"
 status: documented
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -123,9 +123,35 @@ Oliver is not the opportunity-level assistant, CRM writer or coaching agent. Its
 - [approvals](../administration/approvals.md)
 - [olivia](olivia.md)
 
+<a id="operational-guides"></a>
+## Detailed operational guides
+
+
+
+- [Build the revenue process handbook](oliver/handbook.md)
+- [Review schema and field configuration](oliver/schema.md)
+- [Define process boundaries and exceptions](oliver/boundaries.md)
+- [Review and approve handbook evolution](oliver/change-review.md)
+- [Set up Oliver](oliver/setup.md)
+
+<a id="source-boundary"></a>
+## Availability and validation
+
+These guides explain the supplied agent reference in operational terms. They do not establish that every described control is shipped or included in every plan. Open questions remain visible in each task.
+
+<a id="explore"></a>
+## Explore
+
+- [Build the revenue process handbook](oliver/handbook.md)
+- [Review schema and field configuration](oliver/schema.md)
+- [Define process boundaries and exceptions](oliver/boundaries.md)
+- [Review and approve handbook evolution](oliver/change-review.md)
+- [Set up Oliver](oliver/setup.md)
+
 <a id="sources"></a>
 ## Sources and review status
 
 Source description does not establish current availability, production testing or owner approval.
 
 - WEB:/agents/oliver: [Oliver – Revenue Process Agent | Oliv AI](https://oliv.ai/agents/oliver)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

@@ -1,7 +1,7 @@
 ---
 title: "Context Capture"
 url: "/platform/context-capture/"
-version: "1.0"
+version: "1.1-expanded"
 status: documented
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -55,3 +55,4 @@ Source description does not establish current availability, production testing o
 
 - WEB:/context-capture: [Context Capture – Every Interaction, Captured | Oliv AI](https://oliv.ai/context-capture)
 - HELP:15136310: [Understanding Oliv’s Meeting Recording Modes](https://help.oliv.ai/en/articles/15136310-understanding-oliv-s-meeting-recording-modes)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

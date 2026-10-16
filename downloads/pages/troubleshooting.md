@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting"
 url: "/troubleshooting/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -49,3 +49,4 @@ Do not repeatedly retry a consequential action until you know whether the previo
 Source description does not establish current availability, production testing or owner approval.
 
 - HELP:8796010: [Copilot management options](https://help.oliv.ai/en/articles/8796010-copilot-management-options)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

@@ -1,7 +1,7 @@
 ---
 title: "API, MCP and developer interfaces"
 url: "/reference/api-and-mcp/"
-version: "1.0"
+version: "1.1-expanded"
 status: needs-confirmation
 source_checked: 2026-10-16
 product_owner_approved: false

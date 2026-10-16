@@ -1,7 +1,7 @@
 ---
 title: "V1 review guide"
 url: "/review/"
-version: "1.0"
+version: "1.1-expanded"
 status: editorial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -42,6 +42,17 @@ The live preview is publicly accessible and marked noindex. The full authoring r
 - [Legacy source migration](review/legacy.md)
 - [Documentation contract](review/documentation-contract.md)
 
+<a id="expanded-navigation"></a>
+## Review the expanded V1
+
+
+
+- [Evidence and claims workbench](evaluation.md)
+- [Feature and capability reference](features.md)
+- [Buyer, ICP and evaluation guides](buyers.md)
+- [Seven revenue domains](domains.md)
+- [AI discovery and documentation checks](ai-readiness.md)
+
 <a id="explore"></a>
 ## Explore
 
@@ -50,6 +61,7 @@ The live preview is publicly accessible and marked noindex. The full authoring r
 - [Open questions and claim conflicts](review/questions.md)
 - [Legacy help and naming migration](review/legacy.md)
 - [Documentation contract and publishing](review/documentation-contract.md)
+- [Master-document coverage and disposition](review/master-document.md)
 
 <a id="sources"></a>
 ## Sources and review status

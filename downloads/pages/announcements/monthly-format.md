@@ -1,7 +1,7 @@
 ---
 title: "Monthly announcement format"
 url: "/announcements/monthly-format/"
-version: "1.0"
+version: "1.1-expanded"
 status: editorial
 source_checked: 2026-10-16
 product_owner_approved: false

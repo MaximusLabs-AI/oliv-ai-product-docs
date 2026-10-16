@@ -1,7 +1,7 @@
 ---
 title: "Deal Driver agent"
 url: "/agents/deal-driver/"
-version: "1.0"
+version: "1.1-expanded"
 status: documented
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -132,9 +132,37 @@ Deal Driver is not a universal forecast engine, a CRM update service or a coachi
 - [forecaster](forecaster.md)
 - [coach](coach.md)
 
+<a id="operational-guides"></a>
+## Detailed operational guides
+
+
+
+- [Review the manager morning brief](deal-driver/morning-brief.md)
+- [Triage event-triggered deal alerts](deal-driver/risk-alerts.md)
+- [Review rep-level next-step nudges](deal-driver/rep-nudges.md)
+- [Review an end-of-day pipeline recap](deal-driver/sunset-summary.md)
+- [Prepare 1:1 and team pipeline reviews](deal-driver/weekly-manager-review.md)
+- [Set up Deal Driver](deal-driver/setup.md)
+
+<a id="source-boundary"></a>
+## Availability and validation
+
+These guides explain the supplied agent reference in operational terms. They do not establish that every described control is shipped or included in every plan. Open questions remain visible in each task.
+
+<a id="explore"></a>
+## Explore
+
+- [Review the manager morning brief](deal-driver/morning-brief.md)
+- [Triage event-triggered deal alerts](deal-driver/risk-alerts.md)
+- [Review rep-level next-step nudges](deal-driver/rep-nudges.md)
+- [Review an end-of-day pipeline recap](deal-driver/sunset-summary.md)
+- [Prepare 1:1 and team pipeline reviews](deal-driver/weekly-manager-review.md)
+- [Set up Deal Driver](deal-driver/setup.md)
+
 <a id="sources"></a>
 ## Sources and review status
 
 Source description does not establish current availability, production testing or owner approval.
 
 - WEB:/agents/deal-driver: [Deal Driver – AI Deal Risk Agent | Oliv AI](https://oliv.ai/agents/deal-driver)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

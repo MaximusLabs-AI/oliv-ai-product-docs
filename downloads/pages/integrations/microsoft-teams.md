@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Teams integration"
 url: "/integrations/microsoft-teams/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -55,6 +55,27 @@ Use a controlled source record or meeting, confirm that it arrives with the righ
 
 Record the integration version, scopes, tested objects, plan and verification date. Keep that acceptance record current when the provider changes its API or permissions.
 
+<a id="connector-contract"></a>
+## Connector contract to verify
+
+Meeting capture and notification scope must be confirmed separately; a Teams meeting link is not a complete capture contract.
+
+| Contract field | Required confirmation |
+| --- | --- |
+| Owner | Microsoft tenant administrator |
+| Authentication | Current authorization method, granted scopes and service or user identity |
+| Data direction | Read, proposed write, executed write and unsupported operations |
+| Coverage | Exact objects, fields, meeting conditions or channels |
+| Freshness | Refresh timing, backfill and behavior after upstream changes |
+| Lifecycle | Token expiry, revocation, disconnection and retained data |
+
+<a id="explore"></a>
+## Explore
+
+- [Set up Microsoft Teams](microsoft-teams/setup.md)
+- [Microsoft Teams data and permissions](microsoft-teams/data-and-permissions.md)
+- [Microsoft Teams sync and recovery](microsoft-teams/recovery.md)
+
 <a id="sources"></a>
 ## Sources and review status
 
@@ -62,3 +83,4 @@ Source description does not establish current availability, production testing o
 
 - HELP:15136310: [Understanding Oliv’s Meeting Recording Modes](https://help.oliv.ai/en/articles/15136310-understanding-oliv-s-meeting-recording-modes)
 - HELP:8532501: [Integrations settings for Oliv](https://help.oliv.ai/en/articles/8532501-integrations-settings-for-oliv)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

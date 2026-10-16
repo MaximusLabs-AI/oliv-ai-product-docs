@@ -1,0 +1,4 @@
+:HL["/oliv-ai-product-docs/_next/static/css/3cb90a7aa79557e4.css","style"]
+:HL["/oliv-ai-product-docs/oliv-logo.svg","image"]
+:HL["/oliv-ai-product-docs/oliv-logo-white.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"features/security/data-protection/sc17-configurable-data-retention","siblings":["_not-found","_global-error"]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Qf841FbRhN7NylnFW4faW"}

@@ -1,7 +1,7 @@
 ---
 title: "Slack integration"
 url: "/integrations/slack/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -55,6 +55,27 @@ Use a controlled source record or meeting, confirm that it arrives with the righ
 
 Record the integration version, scopes, tested objects, plan and verification date. Keep that acceptance record current when the provider changes its API or permissions.
 
+<a id="connector-contract"></a>
+## Connector contract to verify
+
+Notifications and interaction paths are described in Help material. Channel scope and current bot behavior need review.
+
+| Contract field | Required confirmation |
+| --- | --- |
+| Owner | Slack administrator and team owner |
+| Authentication | Current authorization method, granted scopes and service or user identity |
+| Data direction | Read, proposed write, executed write and unsupported operations |
+| Coverage | Exact objects, fields, meeting conditions or channels |
+| Freshness | Refresh timing, backfill and behavior after upstream changes |
+| Lifecycle | Token expiry, revocation, disconnection and retained data |
+
+<a id="explore"></a>
+## Explore
+
+- [Set up Slack](slack/setup.md)
+- [Slack data and permissions](slack/data-and-permissions.md)
+- [Slack sync and recovery](slack/recovery.md)
+
 <a id="sources"></a>
 ## Sources and review status
 
@@ -62,3 +83,4 @@ Source description does not establish current availability, production testing o
 
 - HELP:9133182: [Messages Sent by Oliv to Slack](https://help.oliv.ai/en/articles/9133182-messages-sent-by-oliv-to-slack)
 - HELP:8532501: [Integrations settings for Oliv](https://help.oliv.ai/en/articles/8532501-integrations-settings-for-oliv)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

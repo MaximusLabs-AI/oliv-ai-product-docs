@@ -1,7 +1,7 @@
 ---
 title: "Prospector agent"
 url: "/agents/prospector/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -109,6 +109,19 @@ This reference has no corresponding original PMM file in the accessible eleven-d
 - [engage](../apps/engage.md)
 - [researcher](researcher.md)
 - [prospecting](../workflows/prospecting.md)
+
+<a id="deep-setup"></a>
+## Prospecting setup and review
+
+
+
+1. Agree target accounts, ICP, exclusions and the data providers permitted for the workflow.
+2. Verify research provenance and correct account/contact matching.
+3. Review outreach content, sender identity, suppression and opt-out handling.
+4. Approve activation and confirm the final sending or handoff state.
+
+- [Engage app](../apps/engage.md)
+- [Sales Development domain](../domains/sales-development.md)
 
 <a id="sources"></a>
 ## Sources and review status

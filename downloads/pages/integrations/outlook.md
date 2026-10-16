@@ -1,7 +1,7 @@
 ---
 title: "Outlook and Microsoft 365 integration"
 url: "/integrations/outlook/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -55,6 +55,27 @@ Use a controlled source record or meeting, confirm that it arrives with the righ
 
 Record the integration version, scopes, tested objects, plan and verification date. Keep that acceptance record current when the provider changes its API or permissions.
 
+<a id="connector-contract"></a>
+## Connector contract to verify
+
+Calendar and email access are distinct from the Outlook add-in. Legacy help documents tenant restrictions and installation issues.
+
+| Contract field | Required confirmation |
+| --- | --- |
+| Owner | Microsoft 365 administrator |
+| Authentication | Current authorization method, granted scopes and service or user identity |
+| Data direction | Read, proposed write, executed write and unsupported operations |
+| Coverage | Exact objects, fields, meeting conditions or channels |
+| Freshness | Refresh timing, backfill and behavior after upstream changes |
+| Lifecycle | Token expiry, revocation, disconnection and retained data |
+
+<a id="explore"></a>
+## Explore
+
+- [Set up Outlook and Microsoft 365](outlook/setup.md)
+- [Outlook and Microsoft 365 data and permissions](outlook/data-and-permissions.md)
+- [Outlook and Microsoft 365 sync and recovery](outlook/recovery.md)
+
 <a id="sources"></a>
 ## Sources and review status
 
@@ -63,3 +84,4 @@ Source description does not establish current availability, production testing o
 - HELP:3810034: [Install Oliv's Add-in for Outlook](https://help.oliv.ai/en/articles/3810034-install-oliv-s-add-in-for-outlook)
 - HELP:4467669: [Missing "Get Add-Ins" button in Outlook](https://help.oliv.ai/en/articles/4467669-missing-get-add-ins-button-in-outlook)
 - HELP:9144560: [Overcome Outlook Calendar Access Restrictions](https://help.oliv.ai/en/articles/9144560-overcome-outlook-calendar-access-restrictions)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

@@ -1,7 +1,7 @@
 ---
 title: "Agent configuration"
 url: "/agents/configuration/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -49,4 +49,4 @@ Use these references to define what must be checked in the current workspace. Do
 
 Source description does not establish current availability, production testing or owner approval.
 
-
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

@@ -1,7 +1,7 @@
 ---
 title: "Google Meet integration"
 url: "/integrations/google-meet/"
-version: "1.0"
+version: "1.1-expanded"
 status: partial
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -55,6 +55,27 @@ Use a controlled source record or meeting, confirm that it arrives with the righ
 
 Record the integration version, scopes, tested objects, plan and verification date. Keep that acceptance record current when the provider changes its API or permissions.
 
+<a id="connector-contract"></a>
+## Connector contract to verify
+
+The eligible recording mode depends on the organization and meeting conditions described by the current recording guide.
+
+| Contract field | Required confirmation |
+| --- | --- |
+| Owner | Workspace administrator and meeting organizer |
+| Authentication | Current authorization method, granted scopes and service or user identity |
+| Data direction | Read, proposed write, executed write and unsupported operations |
+| Coverage | Exact objects, fields, meeting conditions or channels |
+| Freshness | Refresh timing, backfill and behavior after upstream changes |
+| Lifecycle | Token expiry, revocation, disconnection and retained data |
+
+<a id="explore"></a>
+## Explore
+
+- [Set up Google Meet](google-meet/setup.md)
+- [Google Meet data and permissions](google-meet/data-and-permissions.md)
+- [Google Meet sync and recovery](google-meet/recovery.md)
+
 <a id="sources"></a>
 ## Sources and review status
 
@@ -62,3 +83,4 @@ Source description does not establish current availability, production testing o
 
 - HELP:8532501: [Integrations settings for Oliv](https://help.oliv.ai/en/articles/8532501-integrations-settings-for-oliv)
 - HELP:15136310: [Understanding Oliv’s Meeting Recording Modes](https://help.oliv.ai/en/articles/15136310-understanding-oliv-s-meeting-recording-modes)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

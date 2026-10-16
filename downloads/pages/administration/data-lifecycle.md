@@ -1,7 +1,7 @@
 ---
 title: "Data lifecycle, export and deletion"
 url: "/administration/data-lifecycle/"
-version: "1.0"
+version: "1.1-expanded"
 status: needs-confirmation
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -61,3 +61,4 @@ Use a controlled record and identify its related artifacts before changing acces
 Source description does not establish current availability, production testing or owner approval.
 
 - HELP:9179977: [How to Deactivate / Delete your Oliv account](https://help.oliv.ai/en/articles/9179977-how-to-deactivate-delete-your-oliv-account)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

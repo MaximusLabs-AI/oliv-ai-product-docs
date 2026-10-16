@@ -1,7 +1,7 @@
 ---
 title: "Approval governance"
 url: "/administration/approvals/"
-version: "1.0"
+version: "1.1-expanded"
 status: needs-confirmation
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -52,3 +52,4 @@ Confirm how tool-level, conversation-level and organization-level policy interac
 Source description does not establish current availability, production testing or owner approval.
 
 - WEB:/agents/prospector: [Prospector | Oliv AI](https://oliv.ai/agents/prospector)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis

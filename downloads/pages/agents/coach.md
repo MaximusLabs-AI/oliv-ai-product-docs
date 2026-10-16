@@ -1,7 +1,7 @@
 ---
 title: "Coach agent"
 url: "/agents/coach/"
-version: "1.0"
+version: "1.1-expanded"
 status: documented
 source_checked: 2026-10-16
 product_owner_approved: false
@@ -132,9 +132,35 @@ Coach is not a legal-compliance assessment or a replacement for the manager-rep 
 - [enable](../apps/enable.md)
 - [content curator](content-curator.md)
 
+<a id="operational-guides"></a>
+## Detailed operational guides
+
+
+
+- [Configure coaching scorecards](coach/scorecards.md)
+- [Review and approve a monthly coaching goal](coach/monthly-goals.md)
+- [Review weekly coaching progress](coach/weekly-progress.md)
+- [Review manager and leadership coaching views](coach/manager-visibility.md)
+- [Set up Coach](coach/setup.md)
+
+<a id="source-boundary"></a>
+## Availability and validation
+
+These guides explain the supplied agent reference in operational terms. They do not establish that every described control is shipped or included in every plan. Open questions remain visible in each task.
+
+<a id="explore"></a>
+## Explore
+
+- [Configure coaching scorecards](coach/scorecards.md)
+- [Review and approve a monthly coaching goal](coach/monthly-goals.md)
+- [Review weekly coaching progress](coach/weekly-progress.md)
+- [Review manager and leadership coaching views](coach/manager-visibility.md)
+- [Set up Coach](coach/setup.md)
+
 <a id="sources"></a>
 ## Sources and review status
 
 Source description does not establish current availability, production testing or owner approval.
 
 - WEB:/agents/coach: [Coach – AI Sales Coaching Agent | Oliv AI](https://oliv.ai/agents/coach)
+- REVIEW:agents: Supplied original Oliv agent references — authored review basis
