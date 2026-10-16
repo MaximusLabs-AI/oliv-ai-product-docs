@@ -1,0 +1,4634 @@
+{
+  "/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/",
+        "name": "Oliv AI product documentation",
+        "description": "Understand Oliv’s agents, apps, connected context and revenue workflows, with dated sources and a clear review status.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          }
+        ]
+      }
+    ]
+  },
+  "/getting-started/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/",
+        "name": "Getting started",
+        "description": "Choose a first use case, connect the right systems and establish a review process before expanding agent activity.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Getting started",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/"
+          }
+        ]
+      }
+    ]
+  },
+  "/getting-started/implementation/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/implementation/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/implementation/",
+        "name": "Plan your first deployment",
+        "description": "Define the use case, owners, inputs, review controls and acceptance checks for an Oliv deployment.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/implementation/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/implementation/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Getting started",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Plan your first deployment",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/implementation/"
+          }
+        ]
+      }
+    ]
+  },
+  "/getting-started/connect-your-stack/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/connect-your-stack/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/connect-your-stack/",
+        "name": "Connect your revenue stack",
+        "description": "Identify which CRM, calendar, recording and collaboration connections a workflow needs.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/connect-your-stack/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/connect-your-stack/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Getting started",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Connect your revenue stack",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/connect-your-stack/"
+          }
+        ]
+      }
+    ]
+  },
+  "/getting-started/first-workflow/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/first-workflow/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/first-workflow/",
+        "name": "Run a first workflow",
+        "description": "Establish a controlled first Oliv workflow and verify its source, output and review boundary.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/first-workflow/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/first-workflow/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Getting started",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Run a first workflow",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/first-workflow/"
+          }
+        ]
+      }
+    ]
+  },
+  "/getting-started/roles/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/roles/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/roles/",
+        "name": "Who uses Oliv",
+        "description": "Understand the jobs Oliv serves across sales development, sales, CS, account management, enablement and RevOps.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/roles/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/roles/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Getting started",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Who uses Oliv",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/roles/"
+          }
+        ]
+      }
+    ]
+  },
+  "/platform/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/",
+        "name": "Platform concepts",
+        "description": "Understand how captured activity, connected objects, signals, process knowledge, agents and apps relate.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Platform concepts",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/"
+          }
+        ]
+      }
+    ]
+  },
+  "/platform/context-capture/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/context-capture/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/context-capture/",
+        "name": "Context Capture",
+        "description": "Understand the activity sources Oliv brings into revenue workflows and their capture conditions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/context-capture/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/context-capture/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Platform concepts",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Context Capture",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/context-capture/"
+          }
+        ]
+      }
+    ]
+  },
+  "/platform/context-graph/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/context-graph/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/context-graph/",
+        "name": "Context Graph",
+        "description": "Understand how activities connect to accounts, contacts and opportunities, including ambiguous associations.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/context-graph/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/context-graph/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Platform concepts",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Context Graph",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/context-graph/"
+          }
+        ]
+      }
+    ]
+  },
+  "/platform/signal-graph/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/signal-graph/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/signal-graph/",
+        "name": "Signal Graph",
+        "description": "Understand the interpreted revenue signals that support deal, account and agent workflows.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/signal-graph/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/signal-graph/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Platform concepts",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Signal Graph",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/signal-graph/"
+          }
+        ]
+      }
+    ]
+  },
+  "/platform/process-graph/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/process-graph/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/process-graph/",
+        "name": "Process Graph",
+        "description": "Understand the maintained revenue playbook, ownership rules and process exceptions used by Oliv agents.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/process-graph/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/process-graph/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Platform concepts",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Process Graph",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/process-graph/"
+          }
+        ]
+      }
+    ]
+  },
+  "/platform/agent-harness/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/agent-harness/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/agent-harness/",
+        "name": "Agent execution and coordination",
+        "description": "Understand the tools, context, permissions and human review boundaries around agent work.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/agent-harness/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/agent-harness/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Platform concepts",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Agent execution and coordination",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/agent-harness/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/",
+        "name": "Agents",
+        "description": "Find the agent for the job and understand the difference between super agents, specialists and catalog-only names.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/olivia/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/olivia/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/olivia/",
+        "name": "Olivia agent",
+        "description": "Understand Olivia’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/olivia/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/olivia/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Olivia agent",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/olivia/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/oliver/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/oliver/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/oliver/",
+        "name": "Oliver agent",
+        "description": "Understand Oliver’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/oliver/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/oliver/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Oliver agent",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/oliver/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/crm-manager/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/crm-manager/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/crm-manager/",
+        "name": "CRM Manager agent",
+        "description": "Understand CRM Manager’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/crm-manager/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/crm-manager/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "CRM Manager agent",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/crm-manager/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/deal-driver/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/deal-driver/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/deal-driver/",
+        "name": "Deal Driver agent",
+        "description": "Understand Deal Driver’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/deal-driver/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/deal-driver/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Deal Driver agent",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/deal-driver/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/forecaster/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/forecaster/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/forecaster/",
+        "name": "Forecaster agent",
+        "description": "Understand Forecaster’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/forecaster/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/forecaster/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Forecaster agent",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/forecaster/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/meeting-assistant/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/meeting-assistant/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/meeting-assistant/",
+        "name": "Meeting Assistant agent",
+        "description": "Understand Meeting Assistant’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/meeting-assistant/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/meeting-assistant/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Meeting Assistant agent",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/meeting-assistant/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/coach/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/coach/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/coach/",
+        "name": "Coach agent",
+        "description": "Understand Coach’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/coach/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/coach/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Coach agent",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/coach/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/content-curator/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/content-curator/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/content-curator/",
+        "name": "Content Curator agent",
+        "description": "Understand Content Curator’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/content-curator/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/content-curator/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Content Curator agent",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/content-curator/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/portfolio-manager/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/portfolio-manager/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/portfolio-manager/",
+        "name": "Portfolio Manager agent",
+        "description": "Understand Portfolio Manager’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/portfolio-manager/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/portfolio-manager/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Portfolio Manager agent",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/portfolio-manager/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/gold-digger/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/gold-digger/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/gold-digger/",
+        "name": "Gold Digger agent",
+        "description": "Understand Gold Digger’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/gold-digger/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/gold-digger/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gold Digger agent",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/gold-digger/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/researcher/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/researcher/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/researcher/",
+        "name": "Researcher agent",
+        "description": "Understand Researcher’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/researcher/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/researcher/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Researcher agent",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/researcher/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/prospector/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/prospector/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/prospector/",
+        "name": "Prospector agent",
+        "description": "Understand Prospector’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/prospector/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/prospector/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Prospector agent",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/prospector/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/marketplace/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/marketplace/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/marketplace/",
+        "name": "Marketplace and agent naming",
+        "description": "Understand the current dedicated agent pages, the wider marketplace catalog and unresolved naming relationships.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/marketplace/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/marketplace/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Marketplace and agent naming",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/marketplace/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/configuration/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/",
+        "name": "Agent configuration",
+        "description": "Understand the shared configuration questions for tools, approvals, triggers, knowledge and run history.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Agent configuration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/configuration/approvals/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/approvals/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/approvals/",
+        "name": "Tool modes and action boundaries",
+        "description": "Distinguish tool-level controls, conversation settings and workflow-specific review rules.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/approvals/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/approvals/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Agent configuration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Tool modes and action boundaries",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/approvals/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/configuration/triggers/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/triggers/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/triggers/",
+        "name": "Triggers and schedules",
+        "description": "Document the events, cadences, ownership and stop conditions that initiate agent work.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/triggers/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/triggers/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Agent configuration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Triggers and schedules",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/triggers/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/configuration/knowledge/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/knowledge/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/knowledge/",
+        "name": "Knowledge and data access",
+        "description": "Understand supporting documents, connected data and the permissions an agent needs to use them.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/knowledge/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/knowledge/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Agent configuration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Knowledge and data access",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/knowledge/"
+          }
+        ]
+      }
+    ]
+  },
+  "/agents/configuration/run-history/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/run-history/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/run-history/",
+        "name": "Run history and outputs",
+        "description": "Understand the difference between an activity feed, a run result and a complete audit record.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/run-history/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/run-history/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Agents",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Agent configuration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Run history and outputs",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/run-history/"
+          }
+        ]
+      }
+    ]
+  },
+  "/apps/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/",
+        "name": "Apps",
+        "description": "Explore Converse, Forecast, Engage, Enable and Retain as distinct workspaces around shared revenue context.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Apps",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/"
+          }
+        ]
+      }
+    ]
+  },
+  "/apps/converse/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/converse/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/converse/",
+        "name": "Converse app",
+        "description": "Understand the Converse workspace, related agents, setup requirements and remaining limits.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/converse/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/converse/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Apps",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Converse app",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/converse/"
+          }
+        ]
+      }
+    ]
+  },
+  "/apps/forecast/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/forecast/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/forecast/",
+        "name": "Forecast app",
+        "description": "Understand the Forecast workspace, related agents, setup requirements and remaining limits.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/forecast/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/forecast/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Apps",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Forecast app",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/forecast/"
+          }
+        ]
+      }
+    ]
+  },
+  "/apps/engage/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/engage/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/engage/",
+        "name": "Engage app",
+        "description": "Understand the Engage workspace, related agents, setup requirements and remaining limits.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/engage/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/engage/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Apps",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Engage app",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/engage/"
+          }
+        ]
+      }
+    ]
+  },
+  "/apps/enable/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/enable/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/enable/",
+        "name": "Enable app",
+        "description": "Understand the Enable workspace, related agents, setup requirements and remaining limits.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/enable/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/enable/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Apps",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Enable app",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/enable/"
+          }
+        ]
+      }
+    ]
+  },
+  "/apps/retain/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/retain/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/retain/",
+        "name": "Retain app",
+        "description": "Understand the Retain workspace, related agents, setup requirements and remaining limits.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/retain/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/retain/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Apps",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Retain app",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/retain/"
+          }
+        ]
+      }
+    ]
+  },
+  "/workflows/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/",
+        "name": "Workflows",
+        "description": "Follow the handoffs between activity capture, agent output, human review and connected systems.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Workflows",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/"
+          }
+        ]
+      }
+    ]
+  },
+  "/workflows/meeting-preparation/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/meeting-preparation/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/meeting-preparation/",
+        "name": "Prepare and follow up a meeting",
+        "description": "Understand prerequisites, handoffs, outcomes and verification checks for prepare and follow up a meeting.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/meeting-preparation/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/meeting-preparation/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Workflows",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Prepare and follow up a meeting",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/meeting-preparation/"
+          }
+        ]
+      }
+    ]
+  },
+  "/workflows/meeting-recording/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/meeting-recording/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/meeting-recording/",
+        "name": "Record meetings with Oliv",
+        "description": "Understand prerequisites, handoffs, outcomes and verification checks for record meetings with oliv.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/meeting-recording/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/meeting-recording/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Workflows",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Record meetings with Oliv",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/meeting-recording/"
+          }
+        ]
+      }
+    ]
+  },
+  "/workflows/crm-updates/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/crm-updates/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/crm-updates/",
+        "name": "Review and apply CRM updates",
+        "description": "Understand prerequisites, handoffs, outcomes and verification checks for review and apply crm updates.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/crm-updates/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/crm-updates/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Workflows",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Review and apply CRM updates",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/crm-updates/"
+          }
+        ]
+      }
+    ]
+  },
+  "/workflows/pipeline-review/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/pipeline-review/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/pipeline-review/",
+        "name": "Run a pipeline review",
+        "description": "Understand prerequisites, handoffs, outcomes and verification checks for run a pipeline review.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/pipeline-review/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/pipeline-review/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Workflows",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Run a pipeline review",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/pipeline-review/"
+          }
+        ]
+      }
+    ]
+  },
+  "/workflows/forecast-review/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/forecast-review/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/forecast-review/",
+        "name": "Prepare and review a forecast",
+        "description": "Understand prerequisites, handoffs, outcomes and verification checks for prepare and review a forecast.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/forecast-review/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/forecast-review/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Workflows",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Prepare and review a forecast",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/forecast-review/"
+          }
+        ]
+      }
+    ]
+  },
+  "/workflows/coaching/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/coaching/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/coaching/",
+        "name": "Run a coaching cycle",
+        "description": "Understand prerequisites, handoffs, outcomes and verification checks for run a coaching cycle.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/coaching/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/coaching/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Workflows",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Run a coaching cycle",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/coaching/"
+          }
+        ]
+      }
+    ]
+  },
+  "/workflows/expansion/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/expansion/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/expansion/",
+        "name": "Review and hand off an expansion signal",
+        "description": "Understand prerequisites, handoffs, outcomes and verification checks for review and hand off an expansion signal.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/expansion/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/expansion/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Workflows",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Review and hand off an expansion signal",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/expansion/"
+          }
+        ]
+      }
+    ]
+  },
+  "/workflows/customer-success/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/customer-success/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/customer-success/",
+        "name": "Review customer health and renewals",
+        "description": "Understand prerequisites, handoffs, outcomes and verification checks for review customer health and renewals.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/customer-success/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/customer-success/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Workflows",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Review customer health and renewals",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/customer-success/"
+          }
+        ]
+      }
+    ]
+  },
+  "/workflows/prospecting/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/prospecting/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/prospecting/",
+        "name": "Prepare an account outreach workflow",
+        "description": "Understand prerequisites, handoffs, outcomes and verification checks for prepare an account outreach workflow.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/prospecting/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/prospecting/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Workflows",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Prepare an account outreach workflow",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/prospecting/"
+          }
+        ]
+      }
+    ]
+  },
+  "/integrations/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/",
+        "name": "Integrations",
+        "description": "Connect the systems that provide context, receive notifications or allow supported actions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Integrations",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/"
+          }
+        ]
+      }
+    ]
+  },
+  "/integrations/salesforce/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/salesforce/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/salesforce/",
+        "name": "Salesforce integration",
+        "description": "Understand Salesforce’s role, documented setup scope, data direction and verification requirements.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/salesforce/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/salesforce/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Integrations",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Salesforce integration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/salesforce/"
+          }
+        ]
+      }
+    ]
+  },
+  "/integrations/hubspot/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/hubspot/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/hubspot/",
+        "name": "HubSpot integration",
+        "description": "Understand HubSpot’s role, documented setup scope, data direction and verification requirements.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/hubspot/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/hubspot/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Integrations",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "HubSpot integration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/hubspot/"
+          }
+        ]
+      }
+    ]
+  },
+  "/integrations/zoom/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/zoom/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/zoom/",
+        "name": "Zoom integration",
+        "description": "Understand Zoom’s role, documented setup scope, data direction and verification requirements.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/zoom/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/zoom/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Integrations",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Zoom integration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/zoom/"
+          }
+        ]
+      }
+    ]
+  },
+  "/integrations/microsoft-teams/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/microsoft-teams/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/microsoft-teams/",
+        "name": "Microsoft Teams integration",
+        "description": "Understand Microsoft Teams’s role, documented setup scope, data direction and verification requirements.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/microsoft-teams/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/microsoft-teams/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Integrations",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Microsoft Teams integration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/microsoft-teams/"
+          }
+        ]
+      }
+    ]
+  },
+  "/integrations/google-meet/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/google-meet/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/google-meet/",
+        "name": "Google Meet integration",
+        "description": "Understand Google Meet’s role, documented setup scope, data direction and verification requirements.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/google-meet/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/google-meet/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Integrations",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Google Meet integration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/google-meet/"
+          }
+        ]
+      }
+    ]
+  },
+  "/integrations/slack/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/slack/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/slack/",
+        "name": "Slack integration",
+        "description": "Understand Slack’s role, documented setup scope, data direction and verification requirements.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/slack/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/slack/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Integrations",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Slack integration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/slack/"
+          }
+        ]
+      }
+    ]
+  },
+  "/integrations/outlook/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/outlook/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/outlook/",
+        "name": "Outlook and Microsoft 365 integration",
+        "description": "Understand Outlook and Microsoft 365’s role, documented setup scope, data direction and verification requirements.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/outlook/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/outlook/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Integrations",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Outlook and Microsoft 365 integration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/outlook/"
+          }
+        ]
+      }
+    ]
+  },
+  "/integrations/google-calendar/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/google-calendar/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/google-calendar/",
+        "name": "Google Calendar and Gmail integration",
+        "description": "Understand Google Calendar and Gmail’s role, documented setup scope, data direction and verification requirements.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/google-calendar/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/google-calendar/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Integrations",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Google Calendar and Gmail integration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/google-calendar/"
+          }
+        ]
+      }
+    ]
+  },
+  "/integrations/other-systems/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/other-systems/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/other-systems/",
+        "name": "Other integrations and channels",
+        "description": "Distinguish additional named systems from verified connector contracts.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/other-systems/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/other-systems/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Integrations",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Other integrations and channels",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/other-systems/"
+          }
+        ]
+      }
+    ]
+  },
+  "/teams/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/",
+        "name": "Documentation by team",
+        "description": "Find the revenue workflow for your team without confusing business personas with application permissions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Documentation by team",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/"
+          }
+        ]
+      }
+    ]
+  },
+  "/teams/sales-development/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales-development/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales-development/",
+        "name": "Sales Development",
+        "description": "Find Oliv workflows, agents and ownership considerations for sales development.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales-development/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales-development/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Documentation by team",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sales Development",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales-development/"
+          }
+        ]
+      }
+    ]
+  },
+  "/teams/sales/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales/",
+        "name": "Sales",
+        "description": "Find Oliv workflows, agents and ownership considerations for sales.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Documentation by team",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sales",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales/"
+          }
+        ]
+      }
+    ]
+  },
+  "/teams/sales-engineering/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales-engineering/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales-engineering/",
+        "name": "Sales Engineering",
+        "description": "Find Oliv workflows, agents and ownership considerations for sales engineering.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales-engineering/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales-engineering/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Documentation by team",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sales Engineering",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales-engineering/"
+          }
+        ]
+      }
+    ]
+  },
+  "/teams/onboarding/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/onboarding/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/onboarding/",
+        "name": "Customer Onboarding",
+        "description": "Find Oliv workflows, agents and ownership considerations for customer onboarding.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/onboarding/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/onboarding/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Documentation by team",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Customer Onboarding",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/onboarding/"
+          }
+        ]
+      }
+    ]
+  },
+  "/teams/customer-success/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/customer-success/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/customer-success/",
+        "name": "Customer Success",
+        "description": "Find Oliv workflows, agents and ownership considerations for customer success.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/customer-success/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/customer-success/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Documentation by team",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Customer Success",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/customer-success/"
+          }
+        ]
+      }
+    ]
+  },
+  "/teams/account-management/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/account-management/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/account-management/",
+        "name": "Account Management",
+        "description": "Find Oliv workflows, agents and ownership considerations for account management.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/account-management/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/account-management/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Documentation by team",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Account Management",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/account-management/"
+          }
+        ]
+      }
+    ]
+  },
+  "/teams/enablement/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/enablement/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/enablement/",
+        "name": "Enablement",
+        "description": "Find Oliv workflows, agents and ownership considerations for enablement.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/enablement/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/enablement/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Documentation by team",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Enablement",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/enablement/"
+          }
+        ]
+      }
+    ]
+  },
+  "/teams/revops/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/revops/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/revops/",
+        "name": "Revenue Operations",
+        "description": "Find Oliv workflows, agents and ownership considerations for revenue operations.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/revops/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/revops/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Documentation by team",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Revenue Operations",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/revops/"
+          }
+        ]
+      }
+    ]
+  },
+  "/getting-started/startups/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/startups/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/startups/",
+        "name": "Startups and staged adoption",
+        "description": "Plan a staged revenue-stack deployment without assuming an organization-wide replacement.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/startups/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/startups/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Getting started",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Startups and staged adoption",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/startups/"
+          }
+        ]
+      }
+    ]
+  },
+  "/administration/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/",
+        "name": "Administration",
+        "description": "Understand access, approvals, data handling and the evidence needed to operate Oliv responsibly.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Administration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/"
+          }
+        ]
+      }
+    ]
+  },
+  "/administration/access/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/access/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/access/",
+        "name": "Access and permissions",
+        "description": "Separate business personas, application roles, data visibility and external action identity.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/access/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/access/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Administration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Access and permissions",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/access/"
+          }
+        ]
+      }
+    ]
+  },
+  "/administration/approvals/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/approvals/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/approvals/",
+        "name": "Approval governance",
+        "description": "Define the human decision required for each consequential agent action.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/approvals/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/approvals/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Administration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Approval governance",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/approvals/"
+          }
+        ]
+      }
+    ]
+  },
+  "/administration/security-and-privacy/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/security-and-privacy/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/security-and-privacy/",
+        "name": "Security and privacy",
+        "description": "Identify the approved security and data-use evidence needed for an Oliv deployment.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/security-and-privacy/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/security-and-privacy/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Administration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Security and privacy",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/security-and-privacy/"
+          }
+        ]
+      }
+    ]
+  },
+  "/administration/data-lifecycle/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/data-lifecycle/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/data-lifecycle/",
+        "name": "Data lifecycle, export and deletion",
+        "description": "Distinguish account deactivation, source disconnection, content deletion and retained derived context.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/data-lifecycle/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/data-lifecycle/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Administration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Data lifecycle, export and deletion",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/data-lifecycle/"
+          }
+        ]
+      }
+    ]
+  },
+  "/reference/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/",
+        "name": "Reference",
+        "description": "Look up terminology, plans, limits, data objects, reporting cadence and developer-interface scope.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Reference",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/"
+          }
+        ]
+      }
+    ]
+  },
+  "/reference/plans-and-usage/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/plans-and-usage/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/plans-and-usage/",
+        "name": "Plans, credits and usage",
+        "description": "Read the role-based pricing snapshot and distinguish subscriptions, add-ons and agent credit usage.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/plans-and-usage/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/plans-and-usage/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Reference",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Plans, credits and usage",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/plans-and-usage/"
+          }
+        ]
+      }
+    ]
+  },
+  "/reference/limits-and-availability/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/limits-and-availability/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/limits-and-availability/",
+        "name": "Limits and availability",
+        "description": "Distinguish confirmed production limits from prototype labels and missing values.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/limits-and-availability/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/limits-and-availability/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Reference",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Limits and availability",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/limits-and-availability/"
+          }
+        ]
+      }
+    ]
+  },
+  "/reference/data-objects/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/data-objects/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/data-objects/",
+        "name": "Data objects and artifacts",
+        "description": "Understand the records and outputs referenced across Oliv workflows.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/data-objects/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/data-objects/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Reference",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Data objects and artifacts",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/data-objects/"
+          }
+        ]
+      }
+    ]
+  },
+  "/reference/reporting-cadences/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/reporting-cadences/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/reporting-cadences/",
+        "name": "Briefs, reports and cadence",
+        "description": "Distinguish scheduled operating rhythms from delivery guarantees and product release notes.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/reporting-cadences/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/reporting-cadences/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Reference",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Briefs, reports and cadence",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/reporting-cadences/"
+          }
+        ]
+      }
+    ]
+  },
+  "/reference/api-and-mcp/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/api-and-mcp/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/api-and-mcp/",
+        "name": "API, MCP and developer interfaces",
+        "description": "Understand the current interface-documentation gap without inventing endpoints or tool contracts.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/api-and-mcp/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/api-and-mcp/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Reference",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "API, MCP and developer interfaces",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/api-and-mcp/"
+          }
+        ]
+      }
+    ]
+  },
+  "/reference/glossary/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/glossary/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/glossary/",
+        "name": "Glossary",
+        "description": "Use consistent terms for Oliv’s platform, agents, apps, records and review states.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/glossary/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/glossary/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Reference",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Glossary",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/glossary/"
+          }
+        ]
+      }
+    ]
+  },
+  "/troubleshooting/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/",
+        "name": "Troubleshooting",
+        "description": "Identify the failed handoff before changing configuration or retrying an agent action.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Troubleshooting",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/"
+          }
+        ]
+      }
+    ]
+  },
+  "/troubleshooting/meetings/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/meetings/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/meetings/",
+        "name": "Meeting capture and brief issues",
+        "description": "Check calendar coverage, organizer, capture mode, recording access and brief delivery.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/meetings/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/meetings/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Troubleshooting",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Meeting capture and brief issues",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/meetings/"
+          }
+        ]
+      }
+    ]
+  },
+  "/troubleshooting/integrations/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/integrations/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/integrations/",
+        "name": "Integration and sync issues",
+        "description": "Separate source access, mapping, authorization and destination validation failures.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/integrations/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/integrations/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Troubleshooting",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Integration and sync issues",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/integrations/"
+          }
+        ]
+      }
+    ]
+  },
+  "/troubleshooting/agents/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/agents/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/agents/",
+        "name": "Agent output and execution issues",
+        "description": "Check input context, process rules, review boundaries and actual action results.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/agents/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/agents/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Troubleshooting",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Agent output and execution issues",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/agents/"
+          }
+        ]
+      }
+    ]
+  },
+  "/announcements/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/",
+        "name": "Announcements and release notes",
+        "description": "Use dated product announcements and a separate documentation history.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Announcements and release notes",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/"
+          }
+        ]
+      }
+    ]
+  },
+  "/announcements/monthly-format/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/monthly-format/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/monthly-format/",
+        "name": "Monthly announcement format",
+        "description": "Create stable monthly archives and individual change entries with explicit rollout and action details.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/monthly-format/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/monthly-format/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Announcements and release notes",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Monthly announcement format",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/monthly-format/"
+          }
+        ]
+      }
+    ]
+  },
+  "/announcements/documentation-history/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/documentation-history/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/documentation-history/",
+        "name": "Documentation history",
+        "description": "Track changes to the documentation separately from product releases.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/documentation-history/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/documentation-history/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Announcements and release notes",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Documentation history",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/documentation-history/"
+          }
+        ]
+      }
+    ]
+  },
+  "/review/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/",
+        "name": "V1 review guide",
+        "description": "Review the draft against source evidence, production behavior and accountable product decisions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "V1 review guide",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/"
+          }
+        ]
+      }
+    ]
+  },
+  "/review/coverage/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/coverage/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/coverage/",
+        "name": "Coverage and checklist review",
+        "description": "See what V1 covers and what the original 555-row checklist still needs verified.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/coverage/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/coverage/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "V1 review guide",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Coverage and checklist review",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/coverage/"
+          }
+        ]
+      }
+    ]
+  },
+  "/review/sources/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/sources/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/sources/",
+        "name": "Source register",
+        "description": "Trace each page to current web evidence, accessible internal documents and dated support guidance.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/sources/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/sources/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "V1 review guide",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Source register",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/sources/"
+          }
+        ]
+      }
+    ]
+  },
+  "/review/questions/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/questions/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/questions/",
+        "name": "Open questions and claim conflicts",
+        "description": "Resolve publication blockers with an owner answer and supporting evidence.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/questions/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/questions/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "V1 review guide",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Open questions and claim conflicts",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/questions/"
+          }
+        ]
+      }
+    ]
+  },
+  "/review/legacy/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/legacy/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/legacy/",
+        "name": "Legacy help and naming migration",
+        "description": "Keep useful historical guidance while preventing obsolete product behavior from becoming current instructions.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/legacy/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/legacy/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "V1 review guide",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Legacy help and naming migration",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/legacy/"
+          }
+        ]
+      }
+    ]
+  },
+  "/review/documentation-contract/": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website",
+        "name": "Oliv AI Documentation V1 Review",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/documentation-contract/#document",
+        "url": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/documentation-contract/",
+        "name": "Documentation contract and publishing",
+        "description": "Maintain stable URLs, semantic headings, machine-readable exports and an explicit review process.",
+        "inLanguage": "en",
+        "dateModified": "2026-10-16",
+        "creativeWorkStatus": "Draft",
+        "isPartOf": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/#website"
+        },
+        "breadcrumb": {
+          "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/documentation-contract/#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/documentation-contract/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documentation",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "V1 review guide",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Documentation contract and publishing",
+            "item": "https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/documentation-contract/"
+          }
+        ]
+      }
+    ]
+  }
+}

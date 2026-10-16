@@ -1,0 +1,96 @@
+# Oliv AI Documentation V1 Review
+
+> Draft; not approved production documentation. This index is optional and makes no crawler-access or citation guarantee.
+
+- [Oliv AI product documentation](https://maximuslabs-ai.github.io/oliv-ai-product-docs/): Understand Oliv’s agents, apps, connected context and revenue workflows, with dated sources and a clear review status.
+- [Getting started](https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/): Choose a first use case, connect the right systems and establish a review process before expanding agent activity.
+- [Plan your first deployment](https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/implementation/): Define the use case, owners, inputs, review controls and acceptance checks for an Oliv deployment.
+- [Connect your revenue stack](https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/connect-your-stack/): Identify which CRM, calendar, recording and collaboration connections a workflow needs.
+- [Run a first workflow](https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/first-workflow/): Establish a controlled first Oliv workflow and verify its source, output and review boundary.
+- [Who uses Oliv](https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/roles/): Understand the jobs Oliv serves across sales development, sales, CS, account management, enablement and RevOps.
+- [Platform concepts](https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/): Understand how captured activity, connected objects, signals, process knowledge, agents and apps relate.
+- [Context Capture](https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/context-capture/): Understand the activity sources Oliv brings into revenue workflows and their capture conditions.
+- [Context Graph](https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/context-graph/): Understand how activities connect to accounts, contacts and opportunities, including ambiguous associations.
+- [Signal Graph](https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/signal-graph/): Understand the interpreted revenue signals that support deal, account and agent workflows.
+- [Process Graph](https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/process-graph/): Understand the maintained revenue playbook, ownership rules and process exceptions used by Oliv agents.
+- [Agent execution and coordination](https://maximuslabs-ai.github.io/oliv-ai-product-docs/platform/agent-harness/): Understand the tools, context, permissions and human review boundaries around agent work.
+- [Agents](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/): Find the agent for the job and understand the difference between super agents, specialists and catalog-only names.
+- [Olivia agent](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/olivia/): Understand Olivia’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.
+- [Oliver agent](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/oliver/): Understand Oliver’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.
+- [CRM Manager agent](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/crm-manager/): Understand CRM Manager’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.
+- [Deal Driver agent](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/deal-driver/): Understand Deal Driver’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.
+- [Forecaster agent](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/forecaster/): Understand Forecaster’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.
+- [Meeting Assistant agent](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/meeting-assistant/): Understand Meeting Assistant’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.
+- [Coach agent](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/coach/): Understand Coach’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.
+- [Content Curator agent](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/content-curator/): Understand Content Curator’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.
+- [Portfolio Manager agent](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/portfolio-manager/): Understand Portfolio Manager’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.
+- [Gold Digger agent](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/gold-digger/): Understand Gold Digger’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.
+- [Researcher agent](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/researcher/): Understand Researcher’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.
+- [Prospector agent](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/prospector/): Understand Prospector’s purpose, inputs, workflow, outputs, review controls and remaining verification questions.
+- [Marketplace and agent naming](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/marketplace/): Understand the current dedicated agent pages, the wider marketplace catalog and unresolved naming relationships.
+- [Agent configuration](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/): Understand the shared configuration questions for tools, approvals, triggers, knowledge and run history.
+- [Tool modes and action boundaries](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/approvals/): Distinguish tool-level controls, conversation settings and workflow-specific review rules.
+- [Triggers and schedules](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/triggers/): Document the events, cadences, ownership and stop conditions that initiate agent work.
+- [Knowledge and data access](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/knowledge/): Understand supporting documents, connected data and the permissions an agent needs to use them.
+- [Run history and outputs](https://maximuslabs-ai.github.io/oliv-ai-product-docs/agents/configuration/run-history/): Understand the difference between an activity feed, a run result and a complete audit record.
+- [Apps](https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/): Explore Converse, Forecast, Engage, Enable and Retain as distinct workspaces around shared revenue context.
+- [Converse app](https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/converse/): Understand the Converse workspace, related agents, setup requirements and remaining limits.
+- [Forecast app](https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/forecast/): Understand the Forecast workspace, related agents, setup requirements and remaining limits.
+- [Engage app](https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/engage/): Understand the Engage workspace, related agents, setup requirements and remaining limits.
+- [Enable app](https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/enable/): Understand the Enable workspace, related agents, setup requirements and remaining limits.
+- [Retain app](https://maximuslabs-ai.github.io/oliv-ai-product-docs/apps/retain/): Understand the Retain workspace, related agents, setup requirements and remaining limits.
+- [Workflows](https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/): Follow the handoffs between activity capture, agent output, human review and connected systems.
+- [Prepare and follow up a meeting](https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/meeting-preparation/): Understand prerequisites, handoffs, outcomes and verification checks for prepare and follow up a meeting.
+- [Record meetings with Oliv](https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/meeting-recording/): Understand prerequisites, handoffs, outcomes and verification checks for record meetings with oliv.
+- [Review and apply CRM updates](https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/crm-updates/): Understand prerequisites, handoffs, outcomes and verification checks for review and apply crm updates.
+- [Run a pipeline review](https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/pipeline-review/): Understand prerequisites, handoffs, outcomes and verification checks for run a pipeline review.
+- [Prepare and review a forecast](https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/forecast-review/): Understand prerequisites, handoffs, outcomes and verification checks for prepare and review a forecast.
+- [Run a coaching cycle](https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/coaching/): Understand prerequisites, handoffs, outcomes and verification checks for run a coaching cycle.
+- [Review and hand off an expansion signal](https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/expansion/): Understand prerequisites, handoffs, outcomes and verification checks for review and hand off an expansion signal.
+- [Review customer health and renewals](https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/customer-success/): Understand prerequisites, handoffs, outcomes and verification checks for review customer health and renewals.
+- [Prepare an account outreach workflow](https://maximuslabs-ai.github.io/oliv-ai-product-docs/workflows/prospecting/): Understand prerequisites, handoffs, outcomes and verification checks for prepare an account outreach workflow.
+- [Integrations](https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/): Connect the systems that provide context, receive notifications or allow supported actions.
+- [Salesforce integration](https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/salesforce/): Understand Salesforce’s role, documented setup scope, data direction and verification requirements.
+- [HubSpot integration](https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/hubspot/): Understand HubSpot’s role, documented setup scope, data direction and verification requirements.
+- [Zoom integration](https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/zoom/): Understand Zoom’s role, documented setup scope, data direction and verification requirements.
+- [Microsoft Teams integration](https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/microsoft-teams/): Understand Microsoft Teams’s role, documented setup scope, data direction and verification requirements.
+- [Google Meet integration](https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/google-meet/): Understand Google Meet’s role, documented setup scope, data direction and verification requirements.
+- [Slack integration](https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/slack/): Understand Slack’s role, documented setup scope, data direction and verification requirements.
+- [Outlook and Microsoft 365 integration](https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/outlook/): Understand Outlook and Microsoft 365’s role, documented setup scope, data direction and verification requirements.
+- [Google Calendar and Gmail integration](https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/google-calendar/): Understand Google Calendar and Gmail’s role, documented setup scope, data direction and verification requirements.
+- [Other integrations and channels](https://maximuslabs-ai.github.io/oliv-ai-product-docs/integrations/other-systems/): Distinguish additional named systems from verified connector contracts.
+- [Documentation by team](https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/): Find the revenue workflow for your team without confusing business personas with application permissions.
+- [Sales Development](https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales-development/): Find Oliv workflows, agents and ownership considerations for sales development.
+- [Sales](https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales/): Find Oliv workflows, agents and ownership considerations for sales.
+- [Sales Engineering](https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/sales-engineering/): Find Oliv workflows, agents and ownership considerations for sales engineering.
+- [Customer Onboarding](https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/onboarding/): Find Oliv workflows, agents and ownership considerations for customer onboarding.
+- [Customer Success](https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/customer-success/): Find Oliv workflows, agents and ownership considerations for customer success.
+- [Account Management](https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/account-management/): Find Oliv workflows, agents and ownership considerations for account management.
+- [Enablement](https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/enablement/): Find Oliv workflows, agents and ownership considerations for enablement.
+- [Revenue Operations](https://maximuslabs-ai.github.io/oliv-ai-product-docs/teams/revops/): Find Oliv workflows, agents and ownership considerations for revenue operations.
+- [Startups and staged adoption](https://maximuslabs-ai.github.io/oliv-ai-product-docs/getting-started/startups/): Plan a staged revenue-stack deployment without assuming an organization-wide replacement.
+- [Administration](https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/): Understand access, approvals, data handling and the evidence needed to operate Oliv responsibly.
+- [Access and permissions](https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/access/): Separate business personas, application roles, data visibility and external action identity.
+- [Approval governance](https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/approvals/): Define the human decision required for each consequential agent action.
+- [Security and privacy](https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/security-and-privacy/): Identify the approved security and data-use evidence needed for an Oliv deployment.
+- [Data lifecycle, export and deletion](https://maximuslabs-ai.github.io/oliv-ai-product-docs/administration/data-lifecycle/): Distinguish account deactivation, source disconnection, content deletion and retained derived context.
+- [Reference](https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/): Look up terminology, plans, limits, data objects, reporting cadence and developer-interface scope.
+- [Plans, credits and usage](https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/plans-and-usage/): Read the role-based pricing snapshot and distinguish subscriptions, add-ons and agent credit usage.
+- [Limits and availability](https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/limits-and-availability/): Distinguish confirmed production limits from prototype labels and missing values.
+- [Data objects and artifacts](https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/data-objects/): Understand the records and outputs referenced across Oliv workflows.
+- [Briefs, reports and cadence](https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/reporting-cadences/): Distinguish scheduled operating rhythms from delivery guarantees and product release notes.
+- [API, MCP and developer interfaces](https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/api-and-mcp/): Understand the current interface-documentation gap without inventing endpoints or tool contracts.
+- [Glossary](https://maximuslabs-ai.github.io/oliv-ai-product-docs/reference/glossary/): Use consistent terms for Oliv’s platform, agents, apps, records and review states.
+- [Troubleshooting](https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/): Identify the failed handoff before changing configuration or retrying an agent action.
+- [Meeting capture and brief issues](https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/meetings/): Check calendar coverage, organizer, capture mode, recording access and brief delivery.
+- [Integration and sync issues](https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/integrations/): Separate source access, mapping, authorization and destination validation failures.
+- [Agent output and execution issues](https://maximuslabs-ai.github.io/oliv-ai-product-docs/troubleshooting/agents/): Check input context, process rules, review boundaries and actual action results.
+- [Announcements and release notes](https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/): Use dated product announcements and a separate documentation history.
+- [Monthly announcement format](https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/monthly-format/): Create stable monthly archives and individual change entries with explicit rollout and action details.
+- [Documentation history](https://maximuslabs-ai.github.io/oliv-ai-product-docs/announcements/documentation-history/): Track changes to the documentation separately from product releases.
+- [V1 review guide](https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/): Review the draft against source evidence, production behavior and accountable product decisions.
+- [Coverage and checklist review](https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/coverage/): See what V1 covers and what the original 555-row checklist still needs verified.
+- [Source register](https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/sources/): Trace each page to current web evidence, accessible internal documents and dated support guidance.
+- [Open questions and claim conflicts](https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/questions/): Resolve publication blockers with an owner answer and supporting evidence.
+- [Legacy help and naming migration](https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/legacy/): Keep useful historical guidance while preventing obsolete product behavior from becoming current instructions.
+- [Documentation contract and publishing](https://maximuslabs-ai.github.io/oliv-ai-product-docs/review/documentation-contract/): Maintain stable URLs, semantic headings, machine-readable exports and an explicit review process.
